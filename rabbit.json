@@ -1,0 +1,14 @@
+{
+  "backendUrls": [
+    "http://rabbityuz.com",
+    "http://rabbityooz.com",
+    "http://rabbityol.com"
+  ],
+  "resistanceUrl": [
+    "http://rabbityuz.com/rabbit.json",
+    "http://rabbityooz.com/rabbit.json",
+    "http://rabbityol.com/rabbit.json",
+    "https://raw.githubusercontent.com/fridrihptosus66/Rabbit/main/rabbit.json"
+  ],
+  "validationPeriod": 720000
+}
